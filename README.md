@@ -76,3 +76,19 @@ This project uses machine learning to predict whether a customer will churn (i.e
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+
+
+
+
+
+
+---Made by **Challa Jaipal Reddy**
+
+Let me know if you'd like me to:
+- Customize this with **your name and GitHub link**
+- Add a **Streamlit UI** for churn prediction
+- Help build a **project portfolio website**  
+- Or generate a **PPT or PDF summary** for interviews
+
+You're building something solid — let’s make it shine on your resume 🌟
